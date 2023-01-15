@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rich-atom-374718",
+  "private_key_id": "5d92b2c58bb5e6dff4f5af7e3b13af3bf6228f6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmbw8CFua/ZKn6\nD9Cmsrc+XEuJO9P/uMfriDTtUKJ5CWyZpcySjy7La8NjwkpUvfkpl9949sjdxQp1\ntIzelYYxF2KK5FNK6NOH02Qwh6JW5dybasKcU+gZIJI+6kMRvJUJ0zC/dg07lb6t\nUu63SiEN6Ql8qCG3rpWSBYD27xuGIGrQKyhFa4VybiI7p8LMEJzSFneuuLSpJDIX\nDXwqiJfN3EZJLTlZL7Dt09J3E95hXJ8OQZVLaZHg1IdPNOfLJ3LxmzpYPRQZ6DVn\nC/Faywb88sU1flKi59ROEZBXLXitPQG//M0sPWVSzAx7d9wMZS2wXxi2t5M+zOFn\n2EvTkuj5AgMBAAECggEACBSGvEF74OlkdjM73Ef7bP/im+5HZ9gi/pydgzMBvFIY\nj2oVAT2J1k7sTMTTQoN5nAsXSqJilJ+7FwVVvH2yZuI9gsQ8hfvBP0wkRlXjbAgb\nWoFHovrQ3x1tdDf/2xXWf4RdDsKOuGiX+ga3d7cV3TzF3OM1xdroQI9bWEG6Cpwm\nvnGlP5Kb93kMFJLB1vIo9VBtVzg7/qOJOJ6/U6lry4V7Dcjty+rDzUUlZZebCrfu\njmcmk/SRz3ikfMMxgnDtQp8Ijv/SSS8MQxSkTILZTBB03islWMvNkZ+sCszQOo6z\nja6WIbXVnO+Mvy9v8hO4NMfRkLFvjgf5Thq+YB0mfQKBgQDUSDMC2JH/qtAPR1tI\nI6/9G5apZFBtqZlnJP2/DT6sf3cqz88c+N+NACDmoK/3SqI9Kvd13qwjwnvlORZl\nRos/1sVSqwIuxMhPgo8JhDmBRCokPOBdmpOsQOc9ORJ28xoyirpaMwS1OOotmKaz\n2ZSCES/7GiHzUUJ9JEpTNXfhRQKBgQDIta3JZyYJKZhbcCNU2Ig3pDQ+E5GOPBCb\nbAomrwpHmOCvo0m/igGDsR4ZYMymO6QDSBFXJ3P4TajqEINDPxQlyPcUbeYCRvUE\njqA8nACr7Tj0b+qSp/eZcajAn9ZAmJH0VD6+Lb5ib8JQ6uNpIK2wMBamAjQ1lYQr\nVTtC1Q6SJQKBgH8Ujb0ZayVz20QaQpIIEzXhiyryy5cqnZP6uBDkW+2mDO/LIcDF\nWAav2gJWlaDjxAX8L9IXMFPj/Il3yGludrQL3WqkxxS6ZvP6Q6i9yDMTXGr/Ko2+\nmMLYw9WJ0fz1gWxaUj7nJd1bKg2LwdgO2/GVWnTm6wYfUj9aN0hizNZFAoGAc+CY\nZjgcOJwAL4Jtk5W0B1PRKanIlnLNL75PmgfjCnUT+7NtZ504xJxkgUhmvu6eAZsB\nD+1iQhAsHn7MGe34JtyA8hWE/vmSikAB+RwkMx6xjEZ1CpjZFYkOYa+mVgL/+S0O\nUGQ+j7xwVqFWDCLmxFrvKIcLN4iMFyyNG0fAstUCgYAJlK6S8oeBveQ0beNV7X4+\nOnXtADqWnv3R9Lqy6fAhdZfvAT8I/BJOiIBzd2+4gYokVLnje1G8VP6ZKy/a1YwG\nOc9apyrzIH1fvqkWyxakvPFJL+tdRUEQDgkBc15FD/ffUo3zb/k4nxTZXatEm+15\nuBzwyX19qOasY6Vn+MkhhQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "practicum-gc-sa@rich-atom-374718.iam.gserviceaccount.com",
+  "client_id": "102664900397174814738",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/practicum-gc-sa%40rich-atom-374718.iam.gserviceaccount.com"
+}
