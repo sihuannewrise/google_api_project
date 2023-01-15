@@ -59,15 +59,11 @@ def set_user_permissions(spreadsheetId, credentials):
     permissions_body={'type': 'user',
                       'role': 'writer',
                       'emailAddress': EMAIL_USER}
-    
+
     drive_service = discovery.build('drive', 'v3', credentials=credentials)
-    
+
     drive_service.permissions().create(
         fileId=spreadsheetId,
         body=permissions_body,
-        fields='id',
+        fields='id'
     ).execute()
-
-service, credentials = auth()
-spreadsheetId = create_spreadsheet(service)
-set_user_permissions(spreadsheetId, credentials)
