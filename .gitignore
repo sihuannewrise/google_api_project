@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 *.db
+rich-atom*.json
 
 # Distribution / packaging
 .Python
