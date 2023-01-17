@@ -76,18 +76,18 @@ def spreadsheet_update_values(service, spreadsheetId):
         ['Остаток', '=B2-B3'],
         ['Расходы'],
         ['Описание', 'Тип', 'Кол-во', 'Цена', 'Стоимость'],
-        ['Перелет', 'Транспорт', '2', '400', '=C7*D7']
+        ['Перелет', 'Транспорт', '2', '400', '=C7*D7'],
     ]
 
     request_body = {
         'majorDimension': 'ROWS',
-        'values': table_values
+        'values': table_values,
     }
     request = service.spreadsheets().values().update(
         spreadsheetId=spreadsheetId,
         range='Отпуск 2077!A1:F20',
+        body=request_body,
         valueInputOption='USER_ENTERED',
-        body=request_body
     )
     request.execute()
 
